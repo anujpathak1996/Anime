@@ -1,0 +1,15 @@
+body{
+	padding-top: 70px;
+}
+.wallpaper{
+	font-size: 60px;
+	text-align: center;
+	color: rgba(65, 85, 164, 0.5);
+	font-family: algerian;
+}
+.navbar-inverse .navbar-nav > li > a{
+	color: white;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}
